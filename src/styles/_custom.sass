@@ -72,6 +72,27 @@ figcaption
 .slyder-a__bullets__item--active
     background-color: $color-acento-botones;
     border: 0;
+.titulo-tercer-nivel-2
+  width: fit-content
+  max-width: 100%
+  position: relative
+  display: inline-flex
+  align-items: center
+  background-color: $color-secundario
+  border-radius: 30px
+  padding-left: 10px
+  padding-right: 10px
+  min-height: 48px
+ 
+  @media screen and (max-width: $bp-min-md)
+    padding-left: 0px
+
+
+  &__text
+    margin: 0
+    margin: 0 15px 0 10px
+    white-space: normal
+    word-break: break-word
 .titulo-tercer-nivel
   width: fit-content
   max-width: 100%
@@ -131,6 +152,10 @@ figcaption
     line-height: 1.8 !important
 .tabla-a.t-cus-3 table td
     line-height: 2.2 !important
+.tabla-a.t-cus-4 table td
+    line-height: 1.5 !important
+.tabla-a.t-cus-5 table 
+    min-width: 400px;
 .slyder-f__btn i 
     color: $color-acento-botones
 .tarjeta-audio.color-acento-botones .tarjeta-audio__texto 
@@ -148,6 +173,8 @@ figcaption
     color: $color-sistema-texto !important
 .bloque-texto-g.color-adicional-1
     background-color: $color-adicional-1
+.bloque-texto-g.color-adicional-2
+    background-color: $color-adicional-2
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -176,6 +203,12 @@ figcaption
     background-repeat: no-repeat
   &-7
     background-image: url(../assets/curso/temas/t2/20.svg)
+    background-repeat: no-repeat
+  &-8
+    background-image: url(../assets/curso/temas/t2/39.png)
+    background-repeat: no-repeat
+  &-9
+    background-image: url(../assets/curso/temas/t2/41.svg)
     background-repeat: no-repeat
 
 
@@ -240,6 +273,10 @@ figcaption
   .mcus
     &-1
       margin-top: 0em
+  .bg-fondo
+    &-6, &-7, &-8, &-9
+      background-image: none
+      background-color: $color-primario
  
   
 //// TABLET MINI 768--------------------------------------
