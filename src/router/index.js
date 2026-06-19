@@ -38,7 +38,8 @@ const router = createRouter({
           name: 'tema2',
           component: () =>
             import(/* webpackChunkName: "tema2" */ '../views/Tema2.vue'),
-        },],
+        },
+      ],
     },
     {
       path: '/actividad',
