@@ -49,7 +49,7 @@
                   td #[b Centros recreativos]
                   td Espacios complementarios para actividades turísticas.
         .col-sm-3.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/2.png', alt='')
+              img(src='@/assets/curso/temas/t2/2.png')
       
       p.mb-5(data-aos='fade-right') El Registro Nacional de Turismo (RNT) es un mecanismo obligatorio de formalización para todos los prestadores de servicios turísticos en Colombia. Este registro es administrado por las cámaras de comercio y permite la identificación legal de quienes desarrollan actividades turísticas dentro del territorio nacional.
       
@@ -57,29 +57,29 @@
         .p-full-width-2
           .row.justify-content-center.align-items-center
             .col-lg-4.d-none.d-lg-block.pb-0.mb-0
-              img(src='@/assets/curso/temas/t2/3.png', alt='')
+              img(src='@/assets/curso/temas/t2/3.png')
             .col-lg-8
               p.mb-5 El RNT tiene como principales objetivos:
               SlyderF.mb-5(columnas="col-md-6 col-xl-4")
                 .tarjeta.bg-color-5.p-4.hcard-1
                   .row.justify-content-center.mb-4
                     .col-7
-                      img(src='@/assets/curso/temas/t2/4.svg', alt='')
+                      img(src='@/assets/curso/temas/t2/4.svg')
                   p.mb-0.text-center Promover la formalización empresarial.
                 .tarjeta.bg-color-5.p-4.hcard-1
                   .row.justify-content-center.mb-4
                     .col-7
-                      img(src='@/assets/curso/temas/t2/5.svg', alt='')
+                      img(src='@/assets/curso/temas/t2/5.svg')
                   p.mb-0.text-center Proteger a las personas consumidoras. 
                 .tarjeta.bg-color-5.p-4.hcard-1
                   .row.justify-content-center.mb-4
                     .col-7
-                      img(src='@/assets/curso/temas/t2/6.svg', alt='')
+                      img(src='@/assets/curso/temas/t2/6.svg')
                   p.mb-0.text-center Fortalecer la calidad del servicio turístico. 
                 .tarjeta.bg-color-5.p-4.hcard-1
                   .row.justify-content-center.mb-4
                     .col-7
-                      img(src='@/assets/curso/temas/t2/7.svg', alt='')
+                      img(src='@/assets/curso/temas/t2/7.svg')
                   p.mb-0.text-center Facilitar los procesos de inspección, control y vigilancia. 
       .cajon.color-primario.p-4.mb-5(data-aos='fade-right')
         p.mb-0 De acuerdo con el Ministerio de Comercio, Industria y Turismo, ningún prestador de servicios turísticos puede operar legalmente en el país sin contar con un RNT vigente.
@@ -92,7 +92,7 @@
       
       .row.justify-content-center.mb-5.bg-color-5.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block.px-0
-          img(src='@/assets/curso/temas/t2/8.png', alt='')
+          img(src='@/assets/curso/temas/t2/8.png')
         .col-sm-12.col-lg-7.p-5
           p.mb-4 Dentro de la metodología colombiana para la elaboración de inventarios turísticos, el atractivo turístico se refiere a aquellos elementos físicos o culturales que cuentan con condiciones suficientes para incorporarse de manera inmediata al desarrollo de productos turísticos y motivar el desplazamiento de visitantes hacia un destino específico.
           p.mb-0 El Ministerio de Comercio, Industria y Turismo de Colombia define el atractivo turístico como: “Factores físicos y culturales que reúnen las condiciones para ser integrados de inmediato a los productos turísticos”. Esta definición permite comprender que un atractivo turístico no solo posee valor natural o cultural, sino también condiciones de uso turístico relacionadas con su reconocimiento, accesibilidad, estado de conservación y capacidad de integración a la oferta turística del territorio.
@@ -132,7 +132,7 @@
                   i.fas.fa-flag-location
                   p.mb-0 Áreas protegidas. 
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/9.png', alt='')
+          img(src='@/assets/curso/temas/t2/9.png')
       
       
       p.mb-5(data-aos='fade-right') La metodología nacional de inventarios turísticos clasifica los atractivos turísticos en dos grandes grupos:
@@ -142,24 +142,24 @@
            .row.mb-0
             .col-md-6.col-lg.mb-5.mb-lg-0
               .tarjeta-avatar
-                img(src='@/assets/curso/temas/t2/12.svg' alt='')
+                img(src='@/assets/curso/temas/t2/12.svg')
                 .tarjeta.bg-color-primario
                   .p-4
                     h4.text-center.mt-3 Patrimonio cultural
             .col-md-6.col-lg.mb-5.mb-lg-0
               .tarjeta-avatar
-                img(src='@/assets/curso/temas/t2/13.svg' alt='')
+                img(src='@/assets/curso/temas/t2/13.svg')
                 .tarjeta.bg-color-primario
                   .p-4
                     h4.text-center.mt-3 Sitios naturales
         .col-sm-12.col-lg-4.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/11.svg', alt='')
+          img(src='@/assets/curso/temas/t2/11.svg')
       
       Separador
       #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 2.2 Clasificación de los atractivos turísticos según la metodología colombiana
       
-      img.d-none.d-lg-block.mb-5(src='@/assets/curso/temas/t2/14.png', alt='')(data-aos='fade-right')
+      img.d-none.d-lg-block.mb-5(src='@/assets/curso/temas/t2/14.png')(data-aos='fade-right')
       p.mb-5(data-aos='fade-right') La clasificación de los atractivos turísticos según la metodología colombiana permite organizar e identificar los recursos con potencial turístico en un territorio. Esta metodología, establecida por el Ministerio de Comercio, Industria y Turismo de Colombia, agrupa los atractivos en dos grandes categorías: patrimonio cultural y sitios naturales. Esta distinción facilita la planificación y el desarrollo de la oferta turística de un destino.
       
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
@@ -195,7 +195,7 @@
                   td Grupos de especial interés
                   td Comunidades indígenas, negras, raizales y ROM.
         .col-sm-3.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/15.png', alt='')
+              img(src='@/assets/curso/temas/t2/15.png')
       
 
 
@@ -250,7 +250,7 @@
                   td Formaciones kársticas
                   td Cuevas y cavernas.
         .col-sm-3.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/16.png', alt='')
+              img(src='@/assets/curso/temas/t2/16.png')
       
       
       p.mb-5(data-aos='fade-right') La metodología para inventarios turísticos establece que los atractivos deben valorarse principalmente a partir de criterios de calidad y significado.
@@ -264,7 +264,7 @@
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-4.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/17.png', alt='')
+          img(src='@/assets/curso/temas/t2/17.png')
         .col-sm-12.col-lg-8.bg-color-primario.bg-fondo-6.br-1
           .row.justify-content-end.mb-0.align-items-center
             .col-sm-12.col-lg-6.p-5
@@ -317,7 +317,7 @@
                   i.fas.fa-flag-location
                   p.mb-0 Beneficios socioculturales y económicos. 
         .col-sm-12.col-lg-4.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/19.png', alt='')
+          img(src='@/assets/curso/temas/t2/19.png')
 
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
@@ -351,7 +351,7 @@
                   td Reconocimiento en dos o más países.
             
         .col-sm-3.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/21.png', alt='')
+              img(src='@/assets/curso/temas/t2/21.png')
       
       
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
@@ -386,7 +386,7 @@
                   i.fas.fa-flag-location
                   p.mb-0 Facilitan los procesos de planificación turística.
             .col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/22.png', alt='')
+              img(src='@/assets/curso/temas/t2/22.png')
 
 
       p.mb-0 En el turismo de aventura, los atractivos naturales representan el principal escenario para el desarrollo de experiencias recreativas, deportivas y de contacto directo con la naturaleza.
@@ -400,7 +400,7 @@
       
       .row.justify-content-center.mb-5.bg-color-5.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block.px-0
-          img(src='@/assets/curso/temas/t2/23.png', alt='')
+          img(src='@/assets/curso/temas/t2/23.png')
         .col-sm-12.col-lg-7.p-5
           p.mb-4 En la metodología colombiana de inventarios turísticos, un recurso turístico se entiende como aquel elemento físico, natural o cultural que posee potencial para el desarrollo de actividades turísticas, pero que aún no cuenta con las condiciones necesarias para su aprovechamiento inmediato dentro de la oferta turística de un destino.
           p.mb-0 De acuerdo con el Ministerio de Comercio, Industria y Turismo, los recursos turísticos son “factores físicos y culturales potencialmente explotables por el turismo”. Esta definición permite establecer una clara diferencia entre un recurso turístico y un atractivo turístico. Mientras que el atractivo ya dispone de condiciones que facilitan su uso y disfrute por parte de los visitantes, el recurso requiere procesos de conservación, adecuación, puesta en valor, promoción o fortalecimiento para convertirse en un atractivo turístico y formar parte de productos y experiencias turísticas consolidadas.
@@ -430,7 +430,7 @@
                   td #[b Puede necesitar infraestructura y promoción]
                   td Cuenta con condiciones mínimas de operación turística.
         .col-sm-3.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/24.png', alt='')
+              img(src='@/assets/curso/temas/t2/24.png')
       
       .bg-full-width.bg-fondo-1.mb-5(data-aos='fade-right')
         .p-full-width-2
@@ -441,7 +441,7 @@
                 p.mb-0 La clasificación de los recursos turísticos sigue la misma estructura utilizada para los atractivos turísticos, agrupándose principalmente en dos categorías: patrimonio cultural y sitios naturales. Esta clasificación facilita la identificación de elementos con potencial turístico que pueden ser objeto de procesos de conservación, puesta en valor y desarrollo turístico.
               p.mb-0 En este sentido, un recurso turístico puede corresponder a una cascada con acceso limitado, una tradición cultural poco difundida, un sendero sin infraestructura turística, una caverna sin operación formal o una manifestación gastronómica que aún no ha sido promocionada. Aunque estos elementos poseen valor natural o cultural, requieren acciones de fortalecimiento, adecuación o promoción para convertirse en atractivos turísticos y formar parte de la oferta turística de un destino.
             .col-sm-12.col-lg-4.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/35.png', alt='')
+              img(src='@/assets/curso/temas/t2/35.png')
       
       
       p.mb-5(data-aos='fade-right') Los recursos turísticos presentan características relacionadas con:
@@ -471,37 +471,37 @@
               h4.mb-3 Reconocen las potencialidades del territorio
               p.mb-0 Permiten identificar los recursos naturales y culturales que pueden ser aprovechados para el desarrollo de actividades y experiencias turísticas.
             .col-sm-6.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/27.png', alt='')
+              img(src='@/assets/curso/temas/t2/27.png')
           .row.justify-content-center.mb-0.pt-4
             .col-sm-6.col-lg-5
               h4.mb-3 Facilitan el diseño de nuevos productos turísticos
               p.mb-0 Sirven como punto de partida para crear rutas, experiencias, actividades y servicios que amplíen la oferta turística del destino.
             .col-sm-6.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/28.png', alt='')
+              img(src='@/assets/curso/temas/t2/28.png')
           .row.justify-content-center.mb-0.pt-4
             .col-sm-6.col-lg-5
               h4.mb-3 Orientan la inversión turística
               p.mb-0 Proporcionan información para priorizar proyectos de infraestructura, promoción, conservación y fortalecimiento de servicios turísticos.
             .col-sm-6.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/29.png', alt='')
+              img(src='@/assets/curso/temas/t2/29.png')
           .row.justify-content-center.mb-0.pt-4
             .col-sm-6.col-lg-5
               h4.mb-3 Fortalecen la conservación del patrimonio
               p.mb-0 Favorecen la protección y valoración de los recursos naturales y culturales, promoviendo su uso responsable y sostenible.
             .col-sm-6.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/30.png', alt='')
+              img(src='@/assets/curso/temas/t2/30.png')
           .row.justify-content-center.mb-0.pt-4
             .col-sm-6.col-lg-5
               h4.mb-3 Promueven el desarrollo local sostenible
               p.mb-0 Generan oportunidades económicas para las comunidades, impulsan el empleo y contribuyen al bienestar social y ambiental del territorio.
             .col-sm-6.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/31.png', alt='')
+              img(src='@/assets/curso/temas/t2/31.png')
           .row.justify-content-center.mb-0.pt-4
             .col-sm-6.col-lg-5
               h4.mb-3 Papel de los inventarios turísticos
               p.mb-0 Los inventarios turísticos permiten identificar, clasificar y evaluar los recursos existentes en un territorio. Esta información facilita la toma de decisiones, la priorización de acciones y la formulación de estrategias orientadas al desarrollo turístico sostenible y competitivo.
             .col-sm-6.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/32.png', alt='')
+              img(src='@/assets/curso/temas/t2/32.png')
 
 
 
@@ -560,7 +560,7 @@
                   td #[b Recreación]
                   td Actividades complementarias de ocio y entretenimiento.
         .col-sm-3.col-lg-6.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/34.png', alt='')
+              img(src='@/assets/curso/temas/t2/34.png')
       
       .row.justify-content-center.mb-5(data-aos="fade-right")
         .col-sm-12.col-lg-6
@@ -577,7 +577,7 @@
 
       .row.justify-content-center.mb-0.bg-color-5.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block.px-0
-          img(src='@/assets/curso/temas/t2/37.png', alt='')
+          img(src='@/assets/curso/temas/t2/37.png')
         .col-sm-12.col-lg-7.p-5
           p.mb-4 La planta turística desempeña un papel fundamental en el desarrollo de los destinos, ya que permite satisfacer las necesidades de las personas visitantes y garantizar una experiencia turística integral. Su adecuada organización y funcionamiento contribuyen a fortalecer la competitividad del destino, generar empleo, dinamizar las economías locales e incrementar la permanencia de los turistas.
           p.mb-0 Asimismo, una planta turística de calidad mejora los niveles de satisfacción de los visitantes y favorece la imagen del destino. En el caso del turismo de aventura, su importancia es aún mayor, debido a que la calidad de los servicios, la infraestructura y el equipamiento influyen directamente en la percepción de seguridad, confianza y bienestar de quienes participan en las actividades.
@@ -623,7 +623,7 @@
                   i.fas.fa-flag-location
                   p.mb-0 Niveles de riesgo. 
         .col-sm-12.col-lg-6.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/38.png', alt='')
+          img(src='@/assets/curso/temas/t2/38.png')
       
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
@@ -634,7 +634,7 @@
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-6.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/40.png', alt='')
+          img(src='@/assets/curso/temas/t2/40.png')
         .col-sm-12.col-lg-6.bg-color-primario.bg-fondo-9.br-1
           .row.justify-content-start.mb-0.align-items-center
             .col-sm-12.col-lg-6.p-4
@@ -696,10 +696,10 @@
                   td Alta montaña y ecosistemas estratégicos.
                   td Caminatas interpretativas.
         .col-sm-3.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/42.png', alt='')
+              img(src='@/assets/curso/temas/t2/42.png')
       
       
-      p.mb-5(data-aos='fade-right') Las condiciones geográficas permiten:
+      p.mcus-3(data-aos='fade-right') Las condiciones geográficas permiten:
       
       .bg-full-width.bg-fondo-1.mb-5(data-aos='fade-right')
         .p-full-width
@@ -722,7 +722,7 @@
                   i.fas.fa-flag-location
                   p.mb-0 Atraer segmentos especializados de mercado. 
             .col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/43.png', alt='')
+              img(src='@/assets/curso/temas/t2/43.png')
       
       p.mb-0(data-aos='fade-right') En el turismo de aventura, comprender el territorio resulta fundamental para gestionar riesgos, planificar actividades y garantizar sostenibilidad.
       
@@ -730,27 +730,27 @@
       #t_2_6.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 2.6 Cliente en turismo de aventura
       
-      img.d-none.d-lg-block.mb-5(src='@/assets/curso/temas/t2/44.png', alt='')(data-aos='fade-right')
+      img.d-none.d-lg-block.mb-5(src='@/assets/curso/temas/t2/44.png')(data-aos='fade-right')
       p.mb-3(data-aos='fade-right') El cliente de turismo de aventura corresponde a la persona que busca experiencias turísticas activas, auténticas y emocionalmente significativas, generalmente relacionadas con la naturaleza, el descubrimiento, el bienestar y la superación personal. A diferencia del turista tradicional, el visitante de aventura participa activamente en las actividades y valora experiencias transformadoras por encima del consumo pasivo del destino.
-      p.mb-5(data-aos='fade-right') De acuerdo con la Adventure Travel Trade Association (ATTA), el turismo de aventura contemporáneo se caracteriza por integrar tres componentes fundamentales:
+      p.mb-5(data-aos='fade-right') De acuerdo con la #[i Adventure Travel Trade Association (ATTA)], el turismo de aventura contemporáneo se caracteriza por integrar tres componentes fundamentales:
       
       
       .row.mb-5(data-aos='fade-right')
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/t2/45.svg' alt='')
+            img(src='@/assets/curso/temas/t2/45.svg')
             .tarjeta.bg-color-2
               .p-4
                 h4.text-center.mt-3 Actividad física
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/t2/46.svg' alt='')
+            img(src='@/assets/curso/temas/t2/46.svg')
             .tarjeta.bg-color-2
               .p-4
                 h4.text-center.mt-3 Interacción con la naturaleza
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/t2/47.svg' alt='')
+            img(src='@/assets/curso/temas/t2/47.svg')
             .tarjeta.bg-color-2
               .p-4
                 h4.text-center.mt-3 Inmersión cultural
@@ -807,7 +807,7 @@
                   td Cliente multigeneracional
                   td Viaja en grupos familiares con actividades adaptadas a diferentes edades.
         .col-sm-3.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/49.png', alt='')
+              img(src='@/assets/curso/temas/t2/49.png')
 
 
 
@@ -820,7 +820,7 @@
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/50.png', alt='')
+          img(src='@/assets/curso/temas/t2/50.png')
         .col-sm-12.col-lg-9
           TabsA.color-acento-botones
             .tarjeta.bg-color-6.p-4(titulo="Seguridad")
@@ -838,7 +838,7 @@
       
       .row.justify-content-center.mb-0.bg-color-5.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block.px-0
-          img(src='@/assets/curso/temas/t2/51.png', alt='')
+          img(src='@/assets/curso/temas/t2/51.png')
         .col-sm-12.col-lg-7.p-5
           p.mb-4 Las motivaciones que impulsan la participación en actividades de turismo de aventura son diversas y responden a intereses físicos, emocionales, ambientales y culturales. Desde el ámbito físico, muchas personas buscan mejorar su bienestar corporal, fortalecer su condición física, cuidar su salud y reducir los niveles de estrés mediante actividades al aire libre. En el plano emocional, destacan motivaciones relacionadas con la búsqueda de adrenalina, diversión, satisfacción personal, superación de desafíos y sensación de libertad, elementos que diferencian al turismo de aventura de otras modalidades turísticas.
           p.mb-0 Por otra parte, las motivaciones ambientales han adquirido una importancia creciente, ya que cada vez más turistas desean interactuar con ecosistemas naturales, observar fauna y flora, participar en procesos de conservación y aprender sobre sostenibilidad ambiental. Asimismo, las motivaciones culturales impulsan a las personas a conocer comunidades locales, descubrir saberes ancestrales, disfrutar de la gastronomía tradicional y establecer contacto con diferentes expresiones culturales, enriqueciendo así su experiencia de viaje.

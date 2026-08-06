@@ -14,19 +14,19 @@
               h4.mb-3 Turismo en la naturaleza
               p.mb-0 Modalidad turística orientada al disfrute y recreación en espacios naturales. Su principal motivación es la realización de actividades de esparcimiento y descanso en contacto con la naturaleza, sin degradar los recursos naturales. No se enfoca en actividades deportivas ni especializadas. Ejemplos: turismo rural y turismo vacacional.
             .col-sm-6.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/1.png', alt='')
+              img(src='@/assets/curso/temas/t1/1.png')
           .row.justify-content-center.mb-0.pt-4
             .col-sm-6.col-lg-5
               h4.mb-3 Turismo sobre la naturaleza
               p.mb-0 Modalidad turística basada en la práctica de actividades deportivas en entornos naturales. Su principal motivación es la realización de actividades físicas y de aventura que utilizan los recursos naturales como escenario, procurando siempre su conservación. Ejemplos: turismo activo deportivo y aventurismo.
             .col-sm-6.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/2.png', alt='')
+              img(src='@/assets/curso/temas/t1/2.png')
           .row.justify-content-center.mb-0.pt-4
             .col-sm-6.col-lg-5
               h4.mb-3 Turismo por la naturaleza
               p.mb-0 Modalidad turística enfocada en la contemplación, disfrute y conocimiento del medio natural. Promueve la valoración y conservación de los recursos naturales mediante actividades de baja intensidad física. Ejemplo: ecoturismo.
             .col-sm-6.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/3.png', alt='')
+              img(src='@/assets/curso/temas/t1/3.png')
       
       .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos='fade-right')
         .bloque-texto-g__img.d-none.d-lg-block(
@@ -40,11 +40,11 @@
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/5.png', alt='')
+          img(src='@/assets/curso/temas/t1/5.png')
         .col-sm-12.col-lg-7
           .row.justify-content-center.mb-3
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/6.svg', alt='')
+              img(src='@/assets/curso/temas/t1/6.svg')
             .col-sm-12.col-lg-10
               p.mb-0 Esta modalidad no se limita exclusivamente a la práctica de deportes extremos; también incluye actividades recreativas, interpretativas y educativas que favorecen el conocimiento del territorio, el bienestar físico y emocional, y la conexión responsable con el entorno natural.
           p.mb-0 Según Buckley (2010), el turismo de aventura puede definirse como una experiencia turística que combina riesgo percibido, desafío personal y contacto con ambientes naturales. En este contexto, la emoción, la superación personal y la interacción con la naturaleza se convierten en elementos fundamentales que distinguen esta modalidad dentro de la actividad turística.
@@ -59,19 +59,19 @@
       .row.mb-4(data-aos='fade-right')
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/t1/7.svg' alt='')
+            img(src='@/assets/curso/temas/t1/7.svg')
             .tarjeta.bg-color-2
               .p-4
                 h4.text-center.mt-3 Naturaleza
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/t1/8.svg' alt='')
+            img(src='@/assets/curso/temas/t1/8.svg')
             .tarjeta.bg-color-2
               .p-4
                 h4.text-center.mt-3 Actividad física
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/t1/9.svg' alt='')
+            img(src='@/assets/curso/temas/t1/9.svg')
             .tarjeta.bg-color-2
               .p-4
                 h4.text-center.mt-3 Riesgo controlado
@@ -81,11 +81,11 @@
           .row.justify-content-center.align-items-end
             .col-lg-8
               .bg-color-3.py-4.mb-5.px-5
-                p.mb-4 En Colombia, el turismo de aventura se ha consolidado como una alternativa estratégica para el desarrollo territorial, especialmente en regiones rurales y destinos con alto valor natural y paisajístico. Actividades como el senderismo, rafting, torrentismo, parapente, espeleología, canopy y ciclomontañismo forman parte de la oferta turística de numerosos territorios, aprovechando la diversidad geográfica y ambiental del país.
+                p.mb-4 En Colombia, el turismo de aventura se ha consolidado como una alternativa estratégica para el desarrollo territorial, especialmente en regiones rurales y destinos con alto valor natural y paisajístico. Actividades como el senderismo, #[i rafting], torrentismo, parapente, espeleología, #[i canopy] y ciclomontañismo forman parte de la oferta turística de numerosos territorios, aprovechando la diversidad geográfica y ambiental del país.
                 p.mb-0  La importancia del turismo de aventura radica en su aporte al desarrollo económico, social y ambiental de las comunidades. Desde el ámbito económico, genera oportunidades de empleo e ingresos para prestadores de servicios turísticos, guías, operadores especializados y emprendimientos relacionados con alojamiento, gastronomía, transporte y actividades complementarias. 
               p.mb-0 Según la Organización Mundial del Turismo (OMT, 2014), esta modalidad contribuye al fortalecimiento de destinos emergentes al diversificar la oferta turística, aumentar la permanencia de los visitantes y dinamizar las economías locales. Asimismo, promueve el aprovechamiento responsable de los recursos naturales y fomenta la conservación de ecosistemas que constituyen el principal atractivo para el desarrollo de estas actividades.
             .col-lg-4.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/10.png', alt='')
+              img(src='@/assets/curso/temas/t1/10.png')
 
       .cajon.color-acento-contenido.p-4.mb-5(data-aos='fade-right')
         p.mb-3 De igual manera, el turismo de aventura responde a las nuevas tendencias del mercado turístico, caracterizadas por la búsqueda de experiencias auténticas, transformadoras y emocionalmente significativas. A través de estas experiencias, las personas fortalecen su bienestar, desarrollan habilidades de superación personal y establecen una conexión más cercana con la naturaleza y el territorio.
@@ -127,27 +127,27 @@
           .col-sm-12.col-lg-6
               p.mb-0.mt-4 Corresponde al espacio geográfico donde se desarrollan las actividades turísticas. Incluye características naturales como el relieve, el clima, la hidrografía, la biodiversidad y el paisaje, los cuales determinan las condiciones para la práctica del turismo de aventura.
           .col-sm-12.col-lg-4.d-none.d-lg-block
-            img(src='@/assets/curso/temas/t1/11.png', alt='')
+            img(src='@/assets/curso/temas/t1/11.png')
         .row.justify-content-center.align-items-start.mb-0(titulo="La actividad")
           .col-sm-12.col-lg-6
               p.mb-0.mt-4 Es la experiencia específica que realiza la persona turista. Puede incluir componentes deportivos, recreativos, culturales o interpretativos, según el tipo de experiencia y el nivel de interacción con el entorno natural.
           .col-sm-12.col-lg-4.d-none.d-lg-block
-            img(src='@/assets/curso/temas/t1/12.png', alt='')
+            img(src='@/assets/curso/temas/t1/12.png')
         .row.justify-content-center.align-items-start.mb-0(titulo="El nivel de riesgo")
           .col-sm-12.col-lg-6
               p.mb-0.mt-4 Toda actividad de turismo de aventura implica un riesgo controlado. Por ello, la seguridad es un eje fundamental en la planificación, ejecución y supervisión de las experiencias turísticas.
           .col-sm-12.col-lg-4.d-none.d-lg-block
-            img(src='@/assets/curso/temas/t1/13.png', alt='')
+            img(src='@/assets/curso/temas/t1/13.png')
         .row.justify-content-center.align-items-start.mb-0(titulo="La experiencia emocional")
           .col-sm-12.col-lg-6
               p.mb-0.mt-4 Se refiere a las sensaciones y vivencias generadas en el turista, como adrenalina, descubrimiento, satisfacción personal, superación y conexión con la naturaleza.
           .col-sm-12.col-lg-4.d-none.d-lg-block
-            img(src='@/assets/curso/temas/t1/14.png', alt='')
+            img(src='@/assets/curso/temas/t1/14.png')
         .row.justify-content-center.align-items-start.mb-0(titulo="Los servicios turísticos complementarios")
           .col-sm-12.col-lg-6
               p.mb-0.mt-4 Incluyen todos los elementos que apoyan la experiencia turística, como alojamiento, alimentación, transporte, guianza, seguros, primeros auxilios y equipamiento especializado.
           .col-sm-12.col-lg-4.d-none.d-lg-block
-            img(src='@/assets/curso/temas/t1/15.png', alt='')
+            img(src='@/assets/curso/temas/t1/15.png')
         
       p.mb-4(data-aos='fade-right') El turismo de aventura también puede clasificarse según el nivel de dificultad y riesgo de las actividades:
 
@@ -184,7 +184,7 @@
                   td Caminata fácil (nivel de recreación).
                   td Alpinismo.
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/16.png', alt='')
+          img(src='@/assets/curso/temas/t1/16.png')
 
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
@@ -195,45 +195,51 @@
         .tarjeta.bg-fondo-2.p-4
           .row.justify-content-center.mb-4
             .col-5
-              img(src='@/assets/curso/temas/t1/17.svg', alt='')
+              img(src='@/assets/curso/temas/t1/17.svg')
           h4.text-center Contacto directo con la naturaleza
           p.mb-0.text-center Las actividades se desarrollan en entornos naturales, permitiendo la interacción directa con paisajes, ecosistemas y recursos naturales.
         .tarjeta.bg-fondo-2.p-4
           .row.justify-content-center.mb-4
             .col-5
-              img(src='@/assets/curso/temas/t1/18.svg', alt='')
+              img(src='@/assets/curso/temas/t1/18.svg')
           h4.text-center Presencia de riesgo controlado
           p.mb-0.text-center Implica actividades con cierto nivel de riesgo, el cual es gestionado mediante medidas de seguridad y planificación adecuada.
         .tarjeta.bg-fondo-2.p-4
           .row.justify-content-center.mb-4
             .col-5
-              img(src='@/assets/curso/temas/t1/19.svg', alt='')
+              img(src='@/assets/curso/temas/t1/19.svg')
           h4.text-center Participación activa de la persona turista
           p.mb-0.text-center El turista tiene un rol dinámico, participando físicamente en las actividades y no solo como observador.
         .tarjeta.bg-fondo-2.p-4
           .row.justify-content-center.mb-4
             .col-5
-              img(src='@/assets/curso/temas/t1/20.svg', alt='')
+              img(src='@/assets/curso/temas/t1/20.svg')
           h4.text-center Necesidad de protocolos de seguridad
           p.mb-0.text-center Requiere la aplicación de normas, procedimientos y medidas preventivas para garantizar la seguridad de los participantes.
         .tarjeta.bg-fondo-2.p-4
           .row.justify-content-center.mb-4
             .col-5
-              img(src='@/assets/curso/temas/t1/21.svg', alt='')
+              img(src='@/assets/curso/temas/t1/21.svg')
           h4.text-center Uso de equipamiento especializado
           p.mb-0.text-center Se emplean equipos técnicos adecuados según la actividad (arneses, cascos, cuerdas, kayaks, entre otros).
         .tarjeta.bg-fondo-2.p-4
           .row.justify-content-center.mb-4
             .col-5
-              img(src='@/assets/curso/temas/t1/22.svg', alt='')
+              img(src='@/assets/curso/temas/t1/22.svg')
           h4.text-center Generación de experiencias emocionales
           p.mb-0.text-center Produce sensaciones como adrenalina, satisfacción, reto personal y conexión con la naturaleza.
         .tarjeta.bg-fondo-2.p-4
           .row.justify-content-center.mb-4
             .col-5
-              img(src='@/assets/curso/temas/t1/23.svg', alt='')
+              img(src='@/assets/curso/temas/t1/23.svg')
           h4.text-center Fortalecimiento del bienestar físico y mental
           p.mb-0.text-center Contribuye a la salud integral mediante la actividad física y la liberación de estrés.
+        .tarjeta.bg-fondo-2.p-4
+          .row.justify-content-center.mb-4
+            .col-5
+              img(src='@/assets/curso/temas/t1/42.svg')
+          h4.text-center Integración de sostenibilidad ambiental
+          p.mb-0.text-center Promueve el uso responsable de los recursos naturales y la conservación del entorno.
         
       .cajon.color-acento-contenido.p-4.mb-0(data-aos='fade-right')
         p.mb-0 De acuerdo con Sung (2004), las actividades de aventura se caracterizan por la presencia de tres componentes esenciales: la incertidumbre, el desafío y la percepción de riesgo. Estos elementos, en conjunto, son los que incrementan el valor experiencial del producto turístico, al intensificar las emociones, la participación activa del turista y la vivencia de experiencias significativas.
@@ -251,7 +257,7 @@
             .tarjeta.bg-white.p-4
               TarjetaAudio.color-acento-botones.mb-0.p-4(
               texto="Pódcast: Infraestructura turística local"
-              :audio="require_src('@/assets/actividad/audio/success.mp3')"
+              :audio="require_src('@/assets/curso/temas/t1/podcast.mp3')"
           )
       
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
@@ -266,7 +272,7 @@
             p.mb-0 Hace referencia a las condiciones que permiten el ingreso y desplazamiento hacia los atractivos turísticos. Incluye vías terrestres, senderos, señalización, puentes, muelles y accesos especializados.
 
           .col-sm-12.col-lg-5.d-none.d-lg-block
-            img(src='@/assets/curso/temas/t1/26.png', alt='')
+            img(src='@/assets/curso/temas/t1/26.png')
 
         .row.justify-content-center.mb-0.pt-5.px-5.pb-3
           .col-sm-12.col-lg-7
@@ -274,19 +280,19 @@
             p.mb-3 La infraestructura debe estar diseñada para minimizar riesgos y facilitar una respuesta oportuna ante emergencias. Para ello, es fundamental contar con elementos como señalización preventiva, puntos de atención, protocolos de evacuación, sistemas de comunicación, equipos de rescate y servicios de primeros auxilios.
             p.mb-0 Asimismo, las construcciones y equipamientos deben integrarse armónicamente al paisaje, evitando impactos negativos sobre los ecosistemas y respetando la capacidad de carga del territorio.
           .col-sm-12.col-lg-5.d-none.d-lg-block
-            img(src='@/assets/curso/temas/t1/27.png', alt='')
+            img(src='@/assets/curso/temas/t1/27.png')
         .row.justify-content-center.mb-0.pt-5.px-5.pb-3
           .col-sm-12.col-lg-7
             h4.mb-4 Servicios complementarios
             p.mb-0 La infraestructura debe facilitar la operación de las actividades turísticas mediante servicios que mejoran la experiencia del visitante, tales como parqueaderos, centros de información turística, baños, zonas de descanso, miradores, estaciones de hidratación y áreas de alimentación.
           .col-sm-12.col-lg-5.d-none.d-lg-block
-            img(src='@/assets/curso/temas/t1/28.png', alt='')
+            img(src='@/assets/curso/temas/t1/28.png')
         .row.justify-content-center.mb-0.pt-5.px-5.pb-3
           .col-sm-12.col-lg-7
             h4.mb-4 Sostenibilidad
             p.mb-0 La planificación de la infraestructura turística debe promover el uso responsable de los recursos naturales, el manejo adecuado de los residuos y la conservación del entorno ambiental, garantizando la permanencia del atractivo turístico a largo plazo.
           .col-sm-12.col-lg-5.d-none.d-lg-block
-            img(src='@/assets/curso/temas/t1/29.png', alt='')
+            img(src='@/assets/curso/temas/t1/29.png')
 
 
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
@@ -326,7 +332,7 @@
                   td Apoyan la permanencia del visitante en el destino.
                   td Hospedaje, restaurantes, transporte local.
         .col-sm-12.col-lg-4.d-none.d-lg-block
-            img(src='@/assets/curso/temas/t1/30.png', alt='')
+            img(src='@/assets/curso/temas/t1/30.png')
       
       
       p.mb-3(data-aos='fade-right') La infraestructura turística constituye uno de los factores clave para el posicionamiento de un destino turístico competitivo y sostenible.
@@ -334,7 +340,7 @@
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/31.png', alt='')
+          img(src='@/assets/curso/temas/t1/31.png')
         .col-sm-12.col-lg-9.bg-color-primario.bg-fondo-3.br-1
           .row.justify-content-start.mb-0.align-items-center
             .col-sm-12.col-lg-9.p-5
@@ -382,7 +388,7 @@
       
       
       
-      img.mb-4.d-none.d-lg-block(src='@/assets/curso/temas/t1/34.png', alt='')
+      img.mb-4.d-none.d-lg-block(src='@/assets/curso/temas/t1/34.png')
       .bg-color-3.py-4.px-5.mb-5(data-aos='fade-right')
         p.mb-3 El turismo de aventura requiere una regulación específica debido a los riesgos inherentes a las actividades que se desarrollan en escenarios naturales. Esta normatividad establece condiciones mínimas de seguridad, calidad y formalización, con el propósito de proteger tanto a las personas turistas como a los prestadores de servicios turísticos.
         p.mb-0 En Colombia, las actividades de turismo de aventura están reguladas por diversas leyes, decretos, normas técnicas y disposiciones emitidas por entidades gubernamentales relacionadas con el turismo, el deporte, la gestión del riesgo y la sostenibilidad ambiental.
@@ -392,9 +398,9 @@
       
       .row.justify-content-center.mb-5.bg-color-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block.px-0
-          img(src='@/assets/curso/temas/t1/35.png', alt='')
+          img(src='@/assets/curso/temas/t1/35.png')
         .col-sm-12.col-lg-7.p-5
-          img.wcus-2.mb-4.d-none.d-lg-block(src='@/assets/curso/temas/t1/36.svg', alt='')
+          img.wcus-2.mb-4.d-none.d-lg-block(src='@/assets/curso/temas/t1/36.svg')
           ul.lista-ul--color.mb-0
             li.d-flex
               i.fas.fa-flag-location
@@ -430,7 +436,7 @@
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/38.png', alt='')
+          img(src='@/assets/curso/temas/t1/38.png')
         .col-sm-12.col-lg-9
           TabsA.color-acento-botones
             .tarjeta.bg-color-6.p-4(titulo="Preventiva")
@@ -452,15 +458,15 @@
 
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/39.png', alt='')
+          img(src='@/assets/curso/temas/t1/39.png')
         .col-sm-12.col-lg-7
           .row.justify-content-center.mb-3
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/40.svg', alt='')
+              img(src='@/assets/curso/temas/t1/40.svg')
             .col-sm-12.col-lg-10
               p.mb-0 La aplicación de la normatividad turística implica el cumplimiento, por parte de las empresas y prestadores de servicios turísticos, de una serie de requisitos orientados a garantizar la legalidad, la seguridad y la calidad en la prestación del servicio.
           p.mb-0 Entre estos requisitos se encuentran el Registro Nacional de Turismo (RNT), la implementación de protocolos de seguridad, la adquisición de pólizas y seguros, la capacitación del personal, el adecuado mantenimiento de los equipos, la gestión ambiental responsable y la formulación e implementación de planes de emergencia y contingencia.
-      p.mb-5(data-aos='fade-right') En Colombia, diversas actividades de turismo de aventura están reguladas por las Normas Técnicas Sectoriales Colombianas (NTS), las cuales establecen estándares específicos para cada modalidad, con el propósito de asegurar condiciones óptimas de operación, seguridad y calidad en la prestación del servicio turístico.
+      p.mb-3(data-aos='fade-right') En Colombia, diversas actividades de turismo de aventura están reguladas por las Normas Técnicas Sectoriales Colombianas (NTS), las cuales establecen estándares específicos para cada modalidad, con el propósito de asegurar condiciones óptimas de operación, seguridad y calidad en la prestación del servicio turístico.
         
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
         p.mb-0  #[b Tabla 4.] Normatividad básica aplicable al turismo de aventura - Colombia 
@@ -495,7 +501,7 @@
                   td #[b Sistema de Gestión de Seguridad y Salud en el Trabajo]
                   td Establece medidas de prevención de riesgos laborales.
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/41.png', alt='')
+          img(src='@/assets/curso/temas/t1/41.png')
 
 
 
