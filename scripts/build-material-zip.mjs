@@ -43,7 +43,7 @@ async function main() {
   await mkdir(outDir, { recursive: true })
 
   // Contenido en la raíz del zip (equivalente a archiver.directory(dist, false))
-  await run('zip', ['-qr', outZip, '.'], { cwd: distDir })
+  await run('zip', ['-qr', outZip, '.', '-x', '*.DS_Store', '*__MACOSX*'], { cwd: distDir })
 
   console.log(`Listo: ${path.relative(root, outZip)}`)
 }
