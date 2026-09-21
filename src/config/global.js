@@ -40,7 +40,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Turismo de Aventura',
+        titulo: 'Turismo de aventura',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -269,7 +269,7 @@ export default {
     },
     {
       referencia:
-        'Adventure Travel Trade Association. (2023). Adventure travel trends and insights. Adventure Travel Trade Association.',
+        'Adventure Travel Trade Association. (2023). Adventure travel trends and insights.',
     },
     {
       referencia:
@@ -280,11 +280,11 @@ export default {
     },
     {
       referencia:
-        'Colombia, Congreso de la República. (1996). Ley 300 de 1996. Ley General de Turismo. Diario Oficial No. 42.845.',
+        'Congreso de la República de Colombia. (1996). Ley 300 de 1996. Ley General de Turismo. Diario Oficial No. 42.845.',
     },
     {
       referencia:
-        'Colombia, Congreso de la República. (2012). Ley 1558 de 2012 por la cual se modifica la Ley General de Turismo y se dictan otras disposiciones. Diario Oficial No. 48.487.',
+        'Congreso de la República de Colombia. (2012). Ley 1558 de 2012 por la cual se modifica la Ley General de Turismo y se dictan otras disposiciones. Diario Oficial No. 48.487.',
     },
     {
       referencia:
@@ -316,7 +316,7 @@ export default {
     },
     {
       referencia:
-        'Urquía & Bas. (s. f.). Consentimiento informado: ¿Conoces lo que debes utilizar?',
+        'Urquía & Bas. (s. f.). El consentimiento informado: ¿Conoces por qué lo debes utilizar?',
     },
   ],
   creditos: [
@@ -326,7 +326,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

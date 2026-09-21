@@ -5,7 +5,7 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 1
-        h1 Turismo de Aventura
+        h1 Turismo de aventura
       
       .tarjeta.bg-fondo-4.p-4.mb-5(data-aos='fade-right')
         SlyderA(tipo="b")
@@ -51,7 +51,7 @@
       
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
-        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Elementos claves del turismo aventura
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Elementos clave del turismo de aventura
       
 
 
@@ -249,7 +249,7 @@
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 1.1 Infraestructura turística local
       
-      p.mb-5(data-aos='fade-right') Se presenta el pódcast “Infraestructura turística local”, donde se detallada a profundidad el tema propuesto.
+      p.mb-5(data-aos='fade-right') Se presenta el pódcast “Infraestructura turística local”, donde se detalla a profundidad el tema propuesto.
       img.mb-0.d-none.d-lg-block(src='@/assets/curso/temas/t1/25.png')(data-aos='fade-right')
       .row.justify-content-center.g-0.bg-color-primario.mb-5(data-aos='fade-right')
         .col-12

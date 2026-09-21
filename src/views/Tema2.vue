@@ -193,7 +193,7 @@
                   td Carnavales, encuentros culturales, celebraciones tradicionales.
                 tr
                   td Grupos de especial interés
-                  td Comunidades indígenas, negras, raizales y ROM.
+                  td Comunidades indígenas, negras, raizales y Rrom.
         .col-sm-3.col-lg-5.d-none.d-lg-block
               img(src='@/assets/curso/temas/t2/15.png')
       
@@ -206,7 +206,7 @@
       p.mb-5(data-aos='fade-right') Los sitios naturales corresponden a áreas geográficas y recursos ambientales de importancia para el turismo. 
 
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-        p.mb-0  #[b Tabla 7.] Clasificación sitios naturales
+        p.mb-0  #[b Tabla 7.] Clasificación de sitios naturales
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-7
           .tabla-a.t-cus-3.color-acento-contenido.mb-0
@@ -828,11 +828,11 @@
             .tarjeta.bg-color-6.p-4(titulo="Información clara y transparente")
               p.mb-0 El cliente desea conocer previamente: nivel de dificultad, condiciones climáticas, duración, riesgos, recomendaciones físicas, equipamiento requerido. 
             .tarjeta.bg-color-6.p-4(titulo="Sostenibilidad")
-              p.mb-0 Existe un interés creciente por experiencias responsables con: el medio ambiente, las comunidades locales, la conservación cultural. 
+              p.mb-0 Existe un interés creciente por experiencias responsables con el medio ambiente, las comunidades locales y la conservación cultural. 
             .tarjeta.bg-color-6.p-4(titulo="Atención personalizada")
               p.mb-0 Las personas turistas valoran experiencias adaptadas a sus intereses, capacidades y expectativas.
             .tarjeta.bg-color-6.p-4(titulo="Conectividad y tecnología")
-              p.mb-0 Aunque muchas experiencias buscan desconexión, las personas turistas continúan utilizando herramientas digitales para: reservas, navegación, fotografía, consulta de información, recomendaciones.
+              p.mb-0 Aunque muchas experiencias buscan desconexión, las personas turistas continúan utilizando herramientas digitales para reservas, navegación, fotografía, consulta de información y recomendaciones.
       
       
       
