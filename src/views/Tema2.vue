@@ -538,7 +538,7 @@
             table
               thead
                 tr
-                  th.w-25 Componente
+                  th.wcus-3 Componente
                   th Función
               tbody
                 tr

@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Muestra sus principales componentes: destino turístico, gestión y regulación, potencial del territorio y cliente, con elementos como infraestructura, seguridad, normatividad, atractivos naturales y culturales, y motivaciones del visitante")
+          img(src="@/assets/curso/sintesis.svg", alt="Presentan los cuatro componentes principales del turismo de aventura: destino turístico, gestión y regulación, potencial del territorio y cliente, con elementos como infraestructura, seguridad, normatividad, atractivos naturales y culturales, y motivaciones del visitante.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

@@ -292,7 +292,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Comercio, Industria y Turismo. (2015). Decreto 1074 de 2015. Decreto Único Reglamentario del Sector Comercio, Industria y Turismo. Diario Oficial No. 49.523.',
+        'Presidencia de la República de Colombia. (2015). Decreto 1074 de 2015. Decreto Único Reglamentario del Sector Comercio, Industria y Turismo. Diario Oficial No. 49.523.',
     },
     {
       referencia:
